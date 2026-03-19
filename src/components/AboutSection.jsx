@@ -56,10 +56,10 @@ export const AboutSection = () => {
                                 </div>
 
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> UI/UX Design</h4>
+                                    <h4 className="font-semibold text-lg"> Systems-Driven Interfaces</h4>
                                     <p className="text-muted-foreground">
-                                        Designing intuitive and engaging user experiences
-                                        for digital products.
+                                        Building frontend interfaces that connect seamlessly with automated systems,
+                                        focusing on usability, efficiency, and real-world functionality.
                                     </p>
                                 </div>
                             </div>
