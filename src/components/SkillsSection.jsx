@@ -12,7 +12,7 @@ const skills = [
     { name: "MongoDB", level: 75, category: "backend"},
     { name: "Python", level: 90, category: "backend"},
     { name: "PostgreSQL", level: 70, category: "backend"},
-    { name: "C", level: 80, category: "backend"},
+    { name: "C", level: 95, category: "backend"},
     { name: "Java", level: 60, category: "backend"},
     { name: "Socket Programming (TCP/UDP)", level: 70, category: "backend"},
 
@@ -22,9 +22,9 @@ const skills = [
     { name: "AWS IAM", level: 60, category: "tools"},
     { name: "Linux", level: 85, category: "tools"},
     { name: "Terraform", level: 70, category: "tools"},
-    { name: "Packer", level: 85, category: "tools"},
-    { name: "Proxmox", level: 85, category: "tools"},
-    { name: "Bash/Shell Scripting", level: 80, category: "tools"},
+    { name: "Packer", level: 75, category: "tools"},
+    { name: "Proxmox", level: 80, category: "tools"},
+    { name: "Bash/Shell Scripting", level: 75, category: "tools"},
 ]
 
 const categories = ["all", "frontend", "backend", "tools"];
