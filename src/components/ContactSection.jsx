@@ -134,7 +134,7 @@ export const ContactSection = () => {
 
                                 { /* Message */ }
                                 <div>
-                                    <label htmlFor="message" className="block text-sm font-medium mb-2"> Your Name</label>
+                                    <label htmlFor="message" className="block text-sm font-medium mb-2"> Your Message</label>
                                     <textarea 
                                         id="message" 
                                         name="message" 
